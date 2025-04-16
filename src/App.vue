@@ -38,6 +38,7 @@
 
 <script>
 import thumbnail from './assets/thumbnail.png' 
+
 export default {
   data() {
     return {
